@@ -10,16 +10,16 @@ Voici toutes les commandes disponibles.
 
 ### Simulcast :
 
-*Ces commandes sont utilisable que dans des guilds bien précise.*
+*Ces commandes sont utilisables que dans des guildes bien précises.*
 
 - `=sc`
- Montre le prochaine animé programmé.
+ Montre le prochain animé programmé.
 
 - `=sc list`
- Affiches la liste des votes.
+ Affiche la liste des votes.
 
 - `=sc vote <animeID>`
- Vote pour animé présent sur [myanimelist.net](https://myanimelist.net/).
+ Vote pour un animé présent sur [myanimelist.net](https://myanimelist.net/).
 
 - `=sc unvote <animeID>`
  Enlève son vote pour un animé.
